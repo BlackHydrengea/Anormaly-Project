@@ -1,0 +1,82 @@
+# Blender 4.1.1 MTL File: 'Asset-Art.blend'
+# www.blender.org
+
+newmtl 1510278308.a253272754ab181edc8503f474caa2b8
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 800px-Ranat_ek
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd F:/Project Form Githup/Anormaly-Project/Downloads/Ref/800px-Ranat_ek.png
+map_d F:/Project Form Githup/Anormaly-Project/Downloads/Ref/800px-Ranat_ek.png
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl df2461ae-86f0-4318-bec1-a8b700d8667b
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd F:/Project Form Githup/Anormaly-Project/Downloads/Ref/df2461ae-86f0-4318-bec1-a8b700d8667b.png
+map_d F:/Project Form Githup/Anormaly-Project/Downloads/Ref/df2461ae-86f0-4318-bec1-a8b700d8667b.png
+
+newmtl instrument1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd F:/Project Form Githup/Anormaly-Project/Downloads/Ref/instrument1.png
+map_d F:/Project Form Githup/Anormaly-Project/Downloads/Ref/instrument1.png
+
+newmtl png-clipart-southern-thailand-pi-ปี่นอก-isan-เค
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd F:/Project Form Githup/Anormaly-Project/Downloads/Ref/png-clipart-southern-thailand-pi-ปี่นอก-isan-เครื่องดนตรีไทย-pi-miscellaneous-pi.png
+map_d F:/Project Form Githup/Anormaly-Project/Downloads/Ref/png-clipart-southern-thailand-pi-ปี่นอก-isan-เครื่องดนตรีไทย-pi-miscellaneous-pi.png
+
+newmtl product___3__3__1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd F:/Project Form Githup/Anormaly-Project/Downloads/Ref/product___3__3__1.png
+map_d F:/Project Form Githup/Anormaly-Project/Downloads/Ref/product___3__3__1.png
